@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá! Eu sou o Wagner Lustosa 🖐🏾
 
-<!--
-**wagnerlustosajr/wagnerlustosajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wagnerlustosajr) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
-Here are some ideas to get you started:
+![Wagner GitHub stats](https://github-readme-stats.vercel.app/api?username=wagnerlustosajr&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que eu uso no meu dia
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white " />
+    <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</div><br>
+
+📚 Formado em Engenharia Aeroespacial na UnB (Universidade de Brasília) e Cursando Engenharia de Software na Estácio.
+
+📖 Estudando Java-Script e HTLM.
