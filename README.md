@@ -18,4 +18,4 @@
 
 🔭 Trabalhando com análise de dados e dev desde 2020.
 
-📖 Estudando Java-Script e HTLM.
+📖 Estudando Java-Script, HTLM, Css, Flutter e React.
