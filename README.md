@@ -18,4 +18,4 @@
 
 🔭 Trabalhando com análise de dados e dev desde 2020.
 
-📖 Estudando COmputação em Nuvem.
+📖 Estudando Computação em Nuvem.
