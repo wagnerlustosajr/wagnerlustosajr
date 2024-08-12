@@ -27,11 +27,29 @@ Bem-vindo ao meu portfólio! Sou desenvolvedor front-end com formação em Engen
 - **MSSQL Server**: Gerenciamento de bancos de dados.
 - **Git/GitHub**: Controle de versão e colaboração.
 
-## Projetos
+## 🚀 Projetos em Destaque
 
-- **[Loja-OnlineSvdl](https://github.com/wagnerlustosajr/Loja-OnlineSvdl)**: Exemplo de e-commerce.
-- **[Portfólio](https://wagnerlustosajr.github.io/)**: Meu trabalho e projetos.
+### [Loja-OnlineSvdl](https://github.com/wagnerlustosajr/Loja-OnlineSvdl)
+Uma aplicação de e-commerce construída para demonstrar a integração entre front-end e back-end. Utiliza **ReactJS**, **NodeJS** e **MSSQL Server**.
 
-## Contato
+### [Portfólio Pessoal](https://github.com/wagnerlustosajr/wagnerlustosajr.github.io)
+Código-fonte do meu portfólio online, desenvolvido com **HTML**, **CSS**, e **JavaScript** para destacar meus projetos e habilidades.
 
-Interessado em colaborar? Vamos conversar!
+## 💻 Outros Repositórios
+
+### [Calculadora em Flutter](https://github.com/wagnerlustosajr/Calculadora-Flutter)
+Uma calculadora simples desenvolvida com **Flutter**, explorando recursos de design responsivo e funcionalidade básica.
+
+### [API RESTful com NodeJS](https://github.com/wagnerlustosajr/API-Restful-NodeJS)
+Exemplo de API RESTful utilizando **NodeJS** e **Express**, com manipulação de dados em um banco de dados **MSSQL**.
+
+### [Scripts de Automação Python](https://github.com/wagnerlustosajr/Scripts-Automacao-Python)
+Coletânea de scripts criados em **Python** para automatizar tarefas do dia a dia, como manipulação de arquivos e consultas a APIs.
+
+## 🌐 Conecte-se Comigo
+
+Se você estiver interessado em colaborar ou trocar ideias, fique à vontade para me contatar através das minhas redes sociais ou e-mail.
+
+---
+
+Obrigado por visitar meu perfil! Espero que você encontre algo útil ou inspirador aqui.
