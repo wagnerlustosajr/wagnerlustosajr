@@ -14,8 +14,24 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </div><br>
 
-📚 Sou Wagner Fábio Lustosa, um desenvolvedor de front-end com formação em Engenharia Aeroespacial pela Universidade de Brasília (UnB) e atualmente cursando Engenharia de Software na Universidade Estácio de Sá. Tenho experiência em projetos que envolvem desenvolvimento tanto de front-end quanto de back-end, e que me desafiam a criar soluções inovadoras para problemas complexos.
+# Wagner Fábio Lustosa de Sousa Junior - Portfolio
 
-🔭 Trabalhando com análise de dados e dev desde 2020.
+Bem-vindo ao meu portfólio! Sou desenvolvedor front-end com formação em Engenharia Aeroespacial e cursando Engenharia de Software.
 
-📖 Estudando Computação em Nuvem.
+## Habilidades
+
+- **JavaScript, ReactJS, Angular 17**: Desenvolvimento de interfaces dinâmicas.
+- **NodeJS**: Back-end rápido e escalável.
+- **Flutter**: Aplicativos móveis de alta performance.
+- **Python**: Automação e soluções inovadoras.
+- **MSSQL Server**: Gerenciamento de bancos de dados.
+- **Git/GitHub**: Controle de versão e colaboração.
+
+## Projetos
+
+- **[Loja-OnlineSvdl](https://github.com/wagnerlustosajr/Loja-OnlineSvdl)**: Exemplo de e-commerce.
+- **[Portfólio](https://wagnerlustosajr.github.io/)**: Meu trabalho e projetos.
+
+## Contato
+
+Interessado em colaborar? Vamos conversar!
