@@ -14,7 +14,7 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </div><br>
 
-📚 Formado em Engenharia Aeroespacial na UnB (Universidade de Brasília) e Cursando Engenharia de Software na Estácio.
+📚 Sou Wagner Fábio Lustosa, um desenvolvedor de front-end com formação em Engenharia Aeroespacial pela Universidade de Brasília (UnB) e atualmente cursando Engenharia de Software na Universidade Estácio de Sá. Tenho experiência em projetos que envolvem desenvolvimento tanto de front-end quanto de back-end, e que me desafiam a criar soluções inovadoras para problemas complexos.
 
 🔭 Trabalhando com análise de dados e dev desde 2020.
 
