@@ -1,4 +1,4 @@
-## Wagner Lustosa 👨🏾‍💻
+# Wagner Fábio Lustosa de Sousa Junior 👨🏾‍💻
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wagnerlustosajr) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:wagnerlustosa@icloud.com)](mailto:wagnerlustosa@icloud.com)
@@ -14,9 +14,7 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </div><br>
 
-# Wagner Fábio Lustosa de Sousa Junior - Portfolio
-
-Bem-vindo ao meu portfólio! Sou desenvolvedor front-end com formação em Engenharia Aeroespacial e cursando Engenharia de Software.
+### Sou desenvolvedor front-end com formação em Engenharia Aeroespacial e cursando Engenharia de Software.
 
 ## Habilidades
 
