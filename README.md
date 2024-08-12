@@ -5,8 +5,6 @@
 
 ### Bem vindo ao meu perfil 😁✋🏾
 
-![Wagner GitHub stats](https://github-readme-stats.vercel.app/api?username=wagnerlustosajr&show_icons=true&theme=tokyonight)
-
 ## Tecnologias que eu uso no meu dia
 
 ### Sou desenvolvedor front-end com formação em Engenharia Aeroespacial e cursando Engenharia de Software.
