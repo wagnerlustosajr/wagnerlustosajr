@@ -9,11 +9,6 @@
 
 ## Tecnologias que eu uso no meu dia
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white " />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</div><br>
-
 ### Sou desenvolvedor front-end com formação em Engenharia Aeroespacial e cursando Engenharia de Software.
 
 ## Habilidades
@@ -24,25 +19,6 @@
 - **Python**: Automação e soluções inovadoras.
 - **MSSQL Server**: Gerenciamento de bancos de dados.
 - **Git/GitHub**: Controle de versão e colaboração.
-
-## 🚀 Projetos em Destaque
-
-### [Loja-OnlineSvdl](https://github.com/wagnerlustosajr/Loja-OnlineSvdl)
-Uma aplicação de e-commerce construída para demonstrar a integração entre front-end e back-end. Utiliza **ReactJS**, **NodeJS** e **MSSQL Server**.
-
-### [Portfólio Pessoal](https://github.com/wagnerlustosajr/wagnerlustosajr.github.io)
-Código-fonte do meu portfólio online, desenvolvido com **HTML**, **CSS**, e **JavaScript** para destacar meus projetos e habilidades.
-
-## 💻 Outros Repositórios
-
-### [Calculadora em Flutter](https://github.com/wagnerlustosajr/Calculadora-Flutter)
-Uma calculadora simples desenvolvida com **Flutter**, explorando recursos de design responsivo e funcionalidade básica.
-
-### [API RESTful com NodeJS](https://github.com/wagnerlustosajr/API-Restful-NodeJS)
-Exemplo de API RESTful utilizando **NodeJS** e **Express**, com manipulação de dados em um banco de dados **MSSQL**.
-
-### [Scripts de Automação Python](https://github.com/wagnerlustosajr/Scripts-Automacao-Python)
-Coletânea de scripts criados em **Python** para automatizar tarefas do dia a dia, como manipulação de arquivos e consultas a APIs.
 
 ## 🌐 Conecte-se Comigo
 
